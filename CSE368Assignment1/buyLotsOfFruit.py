@@ -1,3 +1,4 @@
+# Contributor: JOSH PHILIP
 # buyLotsOfFruit.py
 # -----------------
 # Licensing Information:  You are free to use or extend these projects for
