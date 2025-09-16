@@ -1,3 +1,4 @@
+# CONTRIBUTORS: DEV PRADEEP, RUOER XU
 # shopSmart.py
 # ------------
 # Licensing Information:  You are free to use or extend these projects for
